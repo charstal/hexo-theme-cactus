@@ -141,7 +141,7 @@ open_graph:
 # Fill in your Disqus Comments Shortname to enable Disqus comments.
 disqus:
   enabled: true
-  shortname: codebucks.disqus.com
+  shortname: codebucks
 
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:
